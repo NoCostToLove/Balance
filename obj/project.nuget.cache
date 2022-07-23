@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "31iLHvI//zyMwhDANV+JzL6Q2rj1wXWk2twZA2g6fHY+EdptiHZRqFyR7q+8g68aNNSeB4GyXEZYE0Uw9nk7/A==",
+  "success": true,
+  "projectFilePath": "/home/caneon/.local/share/Terraria/tModLoader/ModSources/Balance/Balance.csproj",
+  "expectedPackageFiles": [
+    "/home/caneon/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
